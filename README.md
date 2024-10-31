@@ -22,8 +22,8 @@ Un programme en ligne de commande pour convertir un nombre d'une base numérique
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/votre-utilisateur/convertisseur-base.git
-   cd convertisseur-base
+   git clone https://github.com/AnaMkv/Convertisseur-de-bases.git
+   cd Convertisseur-de-bases
    ```
 2. **Compilez le code**
    ```bash
