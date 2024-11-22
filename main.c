@@ -81,7 +81,7 @@ int main(void) {
             continue;
         }
         if (base2 == 10)
-            printf("Le nombre %s en base %u est : %u\n", nombreStr, base1, nombreBase10);
+            printf("Le nombre %s en base %u est : %u\n", nombreStr, base2, nombreBase10);
         else {
             unsigned int tableau[100];
             unsigned int indiceTableau = passageDecimalABase(nombreBase10, tableau, base2);
